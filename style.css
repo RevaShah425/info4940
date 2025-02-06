@@ -1,5 +1,9 @@
-img {
-    width: 100px;
-    height: 50px; 
+body {
+    background-color: lightgoldenrodyellow;
+    font-family: 'Times New Roman', Times, serif;
+}
+.highlight {
+    background-color: lightgrey;
+    padding: 2px;
 }
 
